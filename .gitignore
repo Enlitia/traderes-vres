@@ -22,6 +22,9 @@ dist/
 *.xls
 *.xlsx
 
+# Pickle files
+*.pklg
+
 # Package files
 *.jar
 
